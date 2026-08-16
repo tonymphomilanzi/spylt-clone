@@ -1,10 +1,10 @@
 /* eslint-disable no-unused-vars */
 import React from 'react'
 
-const App = () => {
+const NavBar = () => {
   return (
-    <div>App</div>
+    <div>NavBar</div>
   )
 }
 
-export default App
+export default NavBar
